@@ -84,7 +84,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/ma
 
 ## All Deleted
 
-Sorry for hear
+Sorry for hear 
+
+I will learn to study
 
 [![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
 

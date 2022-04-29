@@ -88,5 +88,4 @@ Sorry for hear
 
 I will learn to study
 
-[![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
 
